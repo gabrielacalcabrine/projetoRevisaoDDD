@@ -1,0 +1,12 @@
+C:\Users\gabri\Desktop\Revisao\AplicacaoRevisao\AplicacaoRevisao.Domain\bin\Debug\net6.0\AplicacaoRevisao.Domain.deps.json
+C:\Users\gabri\Desktop\Revisao\AplicacaoRevisao\AplicacaoRevisao.Domain\bin\Debug\net6.0\AplicacaoRevisao.Domain.dll
+C:\Users\gabri\Desktop\Revisao\AplicacaoRevisao\AplicacaoRevisao.Domain\bin\Debug\net6.0\AplicacaoRevisao.Domain.pdb
+C:\Users\gabri\Desktop\Revisao\AplicacaoRevisao\AplicacaoRevisao.Domain\obj\Debug\net6.0\AplicacaoRevisao.Domain.csproj.AssemblyReference.cache
+C:\Users\gabri\Desktop\Revisao\AplicacaoRevisao\AplicacaoRevisao.Domain\obj\Debug\net6.0\AplicacaoRevisao.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Desktop\Revisao\AplicacaoRevisao\AplicacaoRevisao.Domain\obj\Debug\net6.0\AplicacaoRevisao.Domain.AssemblyInfoInputs.cache
+C:\Users\gabri\Desktop\Revisao\AplicacaoRevisao\AplicacaoRevisao.Domain\obj\Debug\net6.0\AplicacaoRevisao.Domain.AssemblyInfo.cs
+C:\Users\gabri\Desktop\Revisao\AplicacaoRevisao\AplicacaoRevisao.Domain\obj\Debug\net6.0\AplicacaoRevisao.Domain.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\Revisao\AplicacaoRevisao\AplicacaoRevisao.Domain\obj\Debug\net6.0\AplicacaoRevisao.Domain.dll
+C:\Users\gabri\Desktop\Revisao\AplicacaoRevisao\AplicacaoRevisao.Domain\obj\Debug\net6.0\refint\AplicacaoRevisao.Domain.dll
+C:\Users\gabri\Desktop\Revisao\AplicacaoRevisao\AplicacaoRevisao.Domain\obj\Debug\net6.0\AplicacaoRevisao.Domain.pdb
+C:\Users\gabri\Desktop\Revisao\AplicacaoRevisao\AplicacaoRevisao.Domain\obj\Debug\net6.0\ref\AplicacaoRevisao.Domain.dll

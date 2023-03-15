@@ -1,0 +1,17 @@
+C:\Users\gabri\Desktop\Revisao\AplicacaoRevisao\AplicacaoRevisao.Service\bin\Debug\net6.0\AplicacaoRevisao.Service.deps.json
+C:\Users\gabri\Desktop\Revisao\AplicacaoRevisao\AplicacaoRevisao.Service\bin\Debug\net6.0\AplicacaoRevisao.Service.dll
+C:\Users\gabri\Desktop\Revisao\AplicacaoRevisao\AplicacaoRevisao.Service\bin\Debug\net6.0\AplicacaoRevisao.Service.pdb
+C:\Users\gabri\Desktop\Revisao\AplicacaoRevisao\AplicacaoRevisao.Service\bin\Debug\net6.0\AplicacaoRevisao.Domain.dll
+C:\Users\gabri\Desktop\Revisao\AplicacaoRevisao\AplicacaoRevisao.Service\bin\Debug\net6.0\AplicacaoRevisao.Repository.dll
+C:\Users\gabri\Desktop\Revisao\AplicacaoRevisao\AplicacaoRevisao.Service\bin\Debug\net6.0\AplicacaoRevisao.Domain.pdb
+C:\Users\gabri\Desktop\Revisao\AplicacaoRevisao\AplicacaoRevisao.Service\bin\Debug\net6.0\AplicacaoRevisao.Repository.pdb
+C:\Users\gabri\Desktop\Revisao\AplicacaoRevisao\AplicacaoRevisao.Service\obj\Debug\net6.0\AplicacaoRevisao.Service.csproj.AssemblyReference.cache
+C:\Users\gabri\Desktop\Revisao\AplicacaoRevisao\AplicacaoRevisao.Service\obj\Debug\net6.0\AplicacaoRevisao.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Desktop\Revisao\AplicacaoRevisao\AplicacaoRevisao.Service\obj\Debug\net6.0\AplicacaoRevisao.Service.AssemblyInfoInputs.cache
+C:\Users\gabri\Desktop\Revisao\AplicacaoRevisao\AplicacaoRevisao.Service\obj\Debug\net6.0\AplicacaoRevisao.Service.AssemblyInfo.cs
+C:\Users\gabri\Desktop\Revisao\AplicacaoRevisao\AplicacaoRevisao.Service\obj\Debug\net6.0\AplicacaoRevisao.Service.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\Revisao\AplicacaoRevisao\AplicacaoRevisao.Service\obj\Debug\net6.0\AplicacaoRevisao.Service.csproj.CopyComplete
+C:\Users\gabri\Desktop\Revisao\AplicacaoRevisao\AplicacaoRevisao.Service\obj\Debug\net6.0\AplicacaoRevisao.Service.dll
+C:\Users\gabri\Desktop\Revisao\AplicacaoRevisao\AplicacaoRevisao.Service\obj\Debug\net6.0\refint\AplicacaoRevisao.Service.dll
+C:\Users\gabri\Desktop\Revisao\AplicacaoRevisao\AplicacaoRevisao.Service\obj\Debug\net6.0\AplicacaoRevisao.Service.pdb
+C:\Users\gabri\Desktop\Revisao\AplicacaoRevisao\AplicacaoRevisao.Service\obj\Debug\net6.0\ref\AplicacaoRevisao.Service.dll

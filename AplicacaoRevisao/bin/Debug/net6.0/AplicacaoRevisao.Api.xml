@@ -1,0 +1,76 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>AplicacaoRevisao.Api</name>
+    </assembly>
+    <members>
+        <member name="M:AplicacaoRevisao.Api.Controllers.UsuarioController.Logar(AplicacaoRevisao.Domain.Contracts.UsuarioLogin)">
+            <summary>
+            Realiza Login de usuário cadastrado.
+            </summary>
+            <returns>Usuário cadastrado</returns>
+            <response code="201">Retorna usuário cadastrado</response>
+            <response code="400">Se o item não for criado</response> 
+        </member>
+        <member name="M:AplicacaoRevisao.Api.Controllers.UsuarioController.Post(AplicacaoRevisao.Domain.Contracts.UsuarioRequest)">
+            <summary>
+            Realiza cadastro de novo usuário.
+            </summary> 
+            <returns>Usuário cadastrado</returns>
+            <response code="201">Retorna usuário cadastrado</response>
+            <response code="400">Se o item não for criado</response> 
+        </member>
+        <member name="M:AplicacaoRevisao.Api.Controllers.UsuarioController.Put(AplicacaoRevisao.Domain.Contracts.UsuarioRequest,System.Int32)">
+             <summary>
+             Busca usuário e realiza mudança de dados.
+             </summary>   
+            <returns>Usuário modificado</returns>
+             <response code="200">Se o objeto existe e foi alterado</response>
+             <response code="404">Se o objeto não existe</response>
+             <response code="403">Se o acesso for negado</response>
+        </member>
+        <member name="M:AplicacaoRevisao.Api.Controllers.UsuarioController.GetById(System.Int32)">
+            <summary>
+            Realiza busca de usuário por Id.
+            </summary>
+            <returns>Usuário</returns>
+            <response code="200">Retorna usuário</response>
+            <response code="404">Se o objeto não existe</response>
+            <response code="403">Se o acesso for negado</response>
+        </member>
+        <member name="M:AplicacaoRevisao.Api.Controllers.UsuarioController.Get">
+            <summary>
+            Realiza busca de todos os usuários.
+            </summary>
+            <returns>Todos os usuários cadastrados e ativos</returns>
+            <response code="200">Retorna todos os usuários</response>
+            <response code="403">Se o acesso for negado</response> 
+        </member>
+        <member name="M:AplicacaoRevisao.Api.Controllers.UsuarioController.PatchAtivar(System.Int32)">
+             <summary>
+             Busca usuário e realiza ativacao.
+             </summary>   
+            <returns></returns>
+             <response code="200">Se o objeto existe e foi alterado</response>
+             <response code="404">Se o objeto não existe</response>
+             <response code="403">Se o acesso for negado</response>
+        </member>
+        <member name="M:AplicacaoRevisao.Api.Controllers.UsuarioController.PatchDesativar(System.Int32)">
+             <summary>
+             Busca usuário e desativa .
+             </summary>   
+            <returns></returns>
+             <response code="200">Se o objeto existe e foi alterado</response>
+             <response code="404">Se o objeto não existe</response>
+             <response code="403">Se o acesso for negado</response>
+        </member>
+        <member name="M:AplicacaoRevisao.Api.Controllers.UsuarioController.Delete(System.Int32)">
+            <summary>
+            Deleta usuário.
+            </summary>            
+            <response code="200">Se o objeto existe</response>
+            <response code="404">Se o objeto não existe</response>
+            <response code="403">Se o acesso for negado</response>
+        </member>
+    </members>
+</doc>

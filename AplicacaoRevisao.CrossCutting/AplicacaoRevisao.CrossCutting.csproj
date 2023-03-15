@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\AplicacaoRevisao.Domain\AplicacaoRevisao.Domain.csproj" />
+    <ProjectReference Include="..\AplicacaoRevisao.Repository\AplicacaoRevisao.Repository.csproj" />
+    <ProjectReference Include="..\AplicacaoRevisao.Service\AplicacaoRevisao.Service.csproj" />
+  </ItemGroup>
+
+</Project>
